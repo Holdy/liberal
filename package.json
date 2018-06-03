@@ -1,0 +1,26 @@
+{
+  "name": "liberal",
+  "version": "0.0.1",
+  "description": "Liberal key-val handling / file parsing etc.",
+  "main": "liberal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/liberal.git"
+  },
+  "keywords": [
+    "liberal processing",
+    "liberal parsing"
+  ],
+  "author": "Holdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/liberal/issues"
+  },
+  "homepage": "https://github.com/Holdy/liberal#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
