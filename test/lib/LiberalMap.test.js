@@ -67,9 +67,6 @@ describe('Liberal Map', function() {
             done();
         });
 
-
-
-
     });
 
 });

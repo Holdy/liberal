@@ -1,6 +1,6 @@
 {
   "name": "liberal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Liberal key-val handling / file parsing etc.",
   "main": "liberal.js",
   "scripts": {
